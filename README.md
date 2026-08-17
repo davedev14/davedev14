@@ -24,7 +24,6 @@ me causam interesse e vontade de conhecer melhor suas funcionalidades.
 </p>
 
 ---
-
 ### 🤖 Linguagens e Tecnologias
 
 <img 
