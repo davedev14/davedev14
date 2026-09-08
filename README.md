@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Davi e estou concluindo um Ensino Médio técnico no Curso de DDS.
+Me chamo Davi e estou concluindo o Ensino Médio técnico no Curso de DDS.
 Atualmente estou estudando bastante frontend, mas todas as áreas da tecnologia
 me causam interesse e vontade de conhecer melhor suas funcionalidades.
 
